@@ -1,7 +1,7 @@
 Markdown
 #Financialapp Transaction Dashboard
 ##Project overview
-This project analyzes financial app transaction data using Python.This is my first project.
+This project analyzes financial app transaction data using Python.This is my first project as a beginner. 
 
 ##Tools used 
 -Python
